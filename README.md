@@ -52,7 +52,7 @@ d.	(B ^ C)^(¬A)
 
 e.	(M ^ (¬A)) v (¬C) 
 
-![Texto Alternativo](![image](https://github.com/user-attachments/assets/06db9fed-9dd1-46e3-a44d-86c15f3519d2)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/A5.png?raw=true)
 )
 
 
