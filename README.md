@@ -12,23 +12,24 @@ Primera sección
    
 a.	7  
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/A.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/A.png?raw=true)
+
  
 b.	45 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/B.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/B.png?raw=true)
  
 c.	123 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/C.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/C.png?raw=true)
  
 d.	8.75 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/D.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/D.png?raw=true)
  
 e.	-18 (uAlice complemento a dos, ver un ejemplo en la sección de anexos de este documento). 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/E.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/E.png?raw=true)
 
  
 
@@ -36,23 +37,23 @@ e.	-18 (uAlice complemento a dos, ver un ejemplo en la sección de anexos de est
 
 a.	A ^ B 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/A1.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/A1.png?raw=true)
 
 b.	(¬A ^ B) v C 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/A2.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/A2.png?raw=true)
 
 c.	¬(A v C) ^B 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/A3.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/A3.png?raw=true)
 
 d.	(B ^ C)^(¬A) 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/A4.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/A4.png?raw=true)
 
 e.	(M ^ (¬A)) v (¬C) 
 
-![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/A5.png?raw=true)
+![Texto Alternativo](https://github.com/JulioSoza/Tarea1-Web-Apps-Seccion-T---Julio-Soza/blob/main/Imagenes/A5.png?raw=true)
 )
 
 
